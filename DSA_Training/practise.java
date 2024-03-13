@@ -8,3 +8,6 @@ public class practise {
         System.out.println(Arrays.toString(x));
     }
 }
+
+
+///
